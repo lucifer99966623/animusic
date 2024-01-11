@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.2",
     author="Daniel Wardzinski",
     author_email="daniel.ward07@gmail.com",
-    description="",
+    description="A package for creating animated music visualizations",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/wardzin/animusic",
